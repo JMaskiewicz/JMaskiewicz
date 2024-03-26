@@ -19,12 +19,14 @@ I'm always open to connecting with fellow data enthusiasts, finance professional
 
 ### Reinforcement Learning for Stock Market Trading
 
-This is my flagship project where I've designed and implemented a reinforcement learning agent that autonomously trades in the FOREX market. By analyzing historical data and learning from market dynamics, the agent makes informed trading decisions, aiming to maximize returns while minimizing risk. This project showcases my ability to apply advanced machine learning techniques to solve real-world financial problems. Additionally, repository 
+This project stands as the crown jewel of my portfolio, where I've poured my passion and expertise into developing a Reinforcement Learning agent that navigates the complexities of the FOREX market. This isn't just any implementation; it represents a significant leap beyond conventional models. I've customized and enhanced algorithms like Temporal-difference (TD) and Generalized Advantage Estimation (GAE), crafting my own versions tailored to significantly boost the predictive power and efficiency of the trading agent.
 link to Project  [Reinforcement learning for Stock market](https://github.com/JMaskiewicz/RL_tester)
 
 #### Technologies & Tools:
 - **Languages:** Python
-- **Key Libraries:** TensorFlow, Keras, Pandas, NumPy
+- **Key Libraries:** Torch, Pandas, NumPy, Numba, Gym
+- **Custom TD and GAE Algorithms:** Innovated beyond traditional models by modifying and enhancing Temporal-difference and Generalized Advantage Estimation algorithms to suit the unique challenges of FOREX trading.
+- **Written From Scratch:** The Reinforcement Learning agents are meticulously crafted from the ground up, allowing for unparalleled optimization and integration with the custom TD and GAE algorithms.
 
 ### Other Projects
 
@@ -34,8 +36,7 @@ Here's a quick overview of my other projects. Each of these has taught me valuab
 |------------------|---------------------------|-------------|
 | [Project 1](URL) | Python, Pandas, NumPy | Brief description |
 | [Project 2](URL) | R, ggplot2 | Brief description |
-| [Project 3](URL) | SQL, Python | Brief description |
-| [Project 4](URL) | C++, Python | Brief description |
+| [Project 3](URL) | Python | Brief description |
 
 Feel free to explore my repositories to get a deeper understanding of my work. I'm proud of what I've accomplished so far and excited about the projects to come.
 
