@@ -19,7 +19,8 @@ I'm always open to connecting with fellow data enthusiasts, finance professional
 
 ### Reinforcement Learning for Stock Market Trading
 
-This is my flagship project where I've designed and implemented a reinforcement learning agent that autonomously trades in the FOREX market. By analyzing historical data and learning from market dynamics, the agent makes informed trading decisions, aiming to maximize returns while minimizing risk. This project showcases my ability to apply advanced machine learning techniques to solve real-world financial problems.
+This is my flagship project where I've designed and implemented a reinforcement learning agent that autonomously trades in the FOREX market. By analyzing historical data and learning from market dynamics, the agent makes informed trading decisions, aiming to maximize returns while minimizing risk. This project showcases my ability to apply advanced machine learning techniques to solve real-world financial problems. Additionally, repository 
+link to Project  [Reinforcement learning for Stock market](https://github.com/JMaskiewicz/RL_tester)
 
 #### Technologies & Tools:
 - **Languages:** Python
