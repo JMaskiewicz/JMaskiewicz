@@ -35,7 +35,7 @@ Here's a quick overview of my other projects. Each of these has taught me valuab
 | Repository Title | Languages & Packages Used | Description |
 |------------------|---------------------------|-------------|
 | [Project 1](URL) | Python, Pandas, NumPy | Brief description |
-| [Markov Models]([URL](https://github.com/JMaskiewicz/Markov_Models_for_FOREX_trading)) | Python, statsmodels, hmmlearn | This project delves into the analysis of different Markov models, with a significant emphasis on the Hidden Markov Model (HMM), in forecasting the daily price regimes of the EUR/USD currency pair. Utilizing Python's statsmodels and hmmlearn, it provides an in-depth exploration of how these probabilistic models can identify and predict the underlying financial regimes. |
+| [Markov Models](https://github.com/JMaskiewicz/Markov_Models_for_FOREX_trading) | Python, statsmodels, hmmlearn | This project delves into the analysis of different Markov models, with a significant emphasis on the Hidden Markov Model (HMM), in forecasting the daily price regimes of the EUR/USD currency pair. Utilizing Python's statsmodels and hmmlearn, it provides an in-depth exploration of how these probabilistic models can identify and predict the underlying financial regimes. |
 | [BubbleShooter](https://github.com/JMaskiewicz/BubbleShooter) | Python, PyTorch | Application of the Deep Q-Network (DQN) algorithm, this project teaches a machine learning model to master game of Bubble Shooter. By leveraging PyTorch, the project demonstrates the capability of DQN to learn game strategies and decision-making. |
 
 ---
