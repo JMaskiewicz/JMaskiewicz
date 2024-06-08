@@ -1,6 +1,6 @@
 # Hello, I'm Jedrzej 👋
 
-Welcome to my GitHub profile! I'm currently pursuing a double major in Quantitative Finance and Computer Science and Econometrics at the University of Warsaw, in my final year for both. My academic journey is a blend of finance, economics, and technology, fueling my passion for algorithmic trading, time series forecasting, and machine learning, with a special focus on reinforcement learning.
+Welcome to my GitHub profile! I'm currently pursuing a double major in Quantitative Finance and Computer Science and Econometrics at the University of Warsaw, in my final year for both. My academic journey is a blend of finance, economics, and technology, fueling my passion for algorithmic trading, time series forecasting and machine learning, with a special focus on reinforcement learning.
 
 ## About Me
 
