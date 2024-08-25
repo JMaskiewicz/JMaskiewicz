@@ -14,6 +14,7 @@ I'm always open to connecting with fellow data enthusiasts, finance professional
 
 - 📧 Email: jmaskiew@gmail.com
 - LinkedIn: TODO
+- YouTube: https://www.youtube.com/@jbbm_motions
 
 ## My Projects
 
