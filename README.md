@@ -13,7 +13,7 @@ Professionally, I'm navigating the intricate world of financial data as a Market
 I'm always open to connecting with fellow data enthusiasts, finance professionals, and anyone curious about the potential of technology to transform traditional industries.
 
 - 📧 Email: jmaskiew@gmail.com
-- LinkedIn: TODO
+- LinkedIn: https://www.linkedin.com/in/jedrzej-maskiewicz-aa57542a8
 - YouTube: https://www.youtube.com/@jbbm_motions
 
 ## My Projects
