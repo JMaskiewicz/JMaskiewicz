@@ -18,6 +18,23 @@ I'm always open to connecting with fellow data enthusiasts, finance professional
 
 ## My Projects
 
+### Scrappy (UniversalWebshopScraper)
+
+An AI-powered web generalized shop scraper designed to efficiently extract and process data from ANY online stores. Leveraging a multi-worker architecture, this scraper ensures high performance and scalability, making it ideal for large-scale data extraction tasks.
+
+🔗 [Scrappy (UniversalWebshopScraper)](https://github.com/takeaszot/UniversalWebshopScraper)
+
+#### Key Features:
+- **AI-Powered Scraping:** Utilizes machine learning models to intelligently navigate and extract relevant data from diverse web shop structures.
+- **Multi-Worker Architecture:** Implements concurrent processing to enhance scraping speed and handle multiple tasks simultaneously.
+- **Scalability:** Designed to scale effortlessly with increasing data volumes and the number of target websites.
+- **Robust Error Handling:** Ensures reliability by managing common web scraping issues such as rate limiting, CAPTCHAs, and dynamic content loading.
+- **Flexible Configuration:** Works on any webshop page, including Amazon, Allegro, eBay, and AliExpress.
+
+#### Technologies & Tools:
+- **Languages:** Python
+- **Key Libraries:** BeautifulSoup, Selenium, PyTorch (for AI components), multiprocessing
+
 ### Reinforcement Learning for Stock Market Trading
 
 This project stands as the crown jewel of my portfolio, where I've poured my passion and expertise into developing a Reinforcement Learning agent that navigates the complexities of the FOREX market. This isn't just any implementation; it represents a significant leap beyond conventional models. I've customized and enhanced algorithms like Temporal-difference (TD) and Generalized Advantage Estimation (GAE), crafting my own versions tailored to significantly boost the predictive power and efficiency of the trading agent.
